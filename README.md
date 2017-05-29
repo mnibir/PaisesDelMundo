@@ -6,13 +6,17 @@ Países del Mundo es una web de viajes. Los alumnos de DAW1 del curso 2016-2017 
 
 ¡Debo añadir foto de diseño inicial (normal y responsive)!
 
-Todas las imágenes son gratuitas y libres de derechos descargadas de Pixabay (https://pixabay.com/es/)
+Todas las imágenes son gratuitas y libres de derechos descargadas de Pixabay (https://pixabay.com/es/), los vídeos son de Youtube.
 
-El texto es redactado después de consultar información en un par de webs de viajes.
+El texto es parte redactado, parte tomado de diversas webs de viajes.
 
 ## Estructura
 
-* html (index.html, /html/pais, /html/pais2)
+* html (index.html, /html/pais.html, /html/pais2.html)
 * rss (rss/rss.xml)
-* js (js/), jquery que lee json
-* 
+* js (js/Asia.js), jquery que lee json
+* img (img/...), imágenes de tamaño fijo, luego tratadas de forma responsive.
+* data (data/Asia2.json, data/Asia3.json)
+* css (css/a.css)
+
+## 
