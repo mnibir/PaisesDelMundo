@@ -1,0 +1,37 @@
+[
+	{	
+		"id":"4",
+		"pais":" COREA DEL SUR (14 millones de visitantes anuales) ",
+		"fecha":"05/03/2017-8:45",
+		"fotografia":"./img/Asia/CoreaDelSur.jpg",
+		"piedefigura":"Palacio Gyeongbokgung",
+		"entrada":"<p>Corea del Sur, un país que desconoces y te sorprenderá.</p><p>La primera noche de nuestro viaje la pasamos en <span class='negrita'>Seúl</span>, su capital. Y al día siguiente viajamos hasta <span class='negrita'>Andong</span>, donde visitaremos el tradicional Hahoe Village y la Escuela Confuciana.</p><p>Desde Andong</span>, partimos a la mañana siguiente hacia <span class='negrita'>Gyeongju</span>, un lugar que es por sí mismo un museo al aire libre, desde allí continuamos nuestro viaje por Corea del Sur dirigiéndonos a <span class='negrita'>Daegu</span> y visitando el Templo de Haeinsa y el Parque Nacional para después dirigirnos a <span class='negrita'>Busan</span>, el lugar vacacional preferido por los coreanos en verano...</p>",
+		"enlace":"./html/pais.html",
+		"descripcion":"",
+		"mapa":""
+	},
+
+	{	
+		"id":"5",
+		"pais":" JAPÓN (13 millones de visitantes anuales) ",
+		"fecha":"16/03/2017-13:54",
+		"fotografia":"./img/Asia/Japon.jpg",
+		"piedefigura":"Monte Fuji",
+		"entrada":"<p>Japón, tierra de samurais.</p><p>La primera visita de nuestro viaje será al Palacio Imperial de <span class='negrita'>Kioto</span>, el Castillo Nijo y el Templo Dorado. A continuación pasearemos por el distrito de las Geishas de Gion.</p><p>Al día siguiente tomaremos el tren para ir a la ciudad de <span class='negrita'>Nara</span>. Allí visitaremos los templos de Kofukuji, Todaiji y Kasuga. De regreso a Kioto visitaremos el espectacular templo de Fushimi Inari, famoso por sus miles de puertas torii rojas.</p><p>A la mañana siguiente, visitaremos los templos de Sanjusangendo y Kiyomizudera y a mediodía el Mercado del Pescado Kisiki. Después visitaremos el templo de Ginkakuji. Al final del día tomaremos el tren bala para ir a <span class='negrita'>Hiroshima</span>...</p>",
+		"enlace":"./html/pais.html",
+		"descripcion":"",
+		"mapa":""
+	},
+
+	{	
+		"id":"6",
+		"pais":" SINGAPUR (12 millones de visitantes anuales) ",
+		"fecha":"28/marzo/2017-20:24",
+		"fotografia":"./img/Asia/Singapur.jpg",
+		"piedefigura":"Chinatown",
+		"entrada":"<p>Singapur, un nexo entre culturas.</p><p> En Singapur no te puedes perder el Parque de Merlion, cuya estatua es el símbolo de Singapur y cuyas vistas de los rascacielos de la ciudad es impresionante. Por la noche cenaremos en el Clarke Quay, una de las zonas más emblemáticas de Singapur, situada a orillas del río Singapur, o bien en el Boat Quay.</p><p>Singapur es una ciudad multicultural. Allí tenemos Little India, el distrito que alberga a la comunidad india. Su arquitectura, su gente y el olor a especias y a incienso recuerdan a las calles más características de Bombay. En otro distrito, tenemos Chinatown, el barrio chino, uno de los lugares más visitados de la ciudad, cuyas calles están repletas de tiendas, restaurantes, museos y templos...</p>",
+		"enlace":"./html/pais.html",
+		"descripcion":"",
+		"mapa":""
+	}
+]
