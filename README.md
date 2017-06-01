@@ -6,7 +6,7 @@ Países del Mundo es una web de viajes. Los alumnos de DAW1 del curso 2016-2017 
 
 ¡Debo añadir foto de diseño inicial (normal y responsive)!
 
-![img](/img/diseny/)
+![img](https://github.com/mnibir/PaisesDelMundo/blob/master/img/diseny/20170601_184435.jpg)
 
 Todas las imágenes son gratuitas y libres de derechos descargadas de Pixabay (https://pixabay.com/es/), los vídeos son de Youtube.
 
