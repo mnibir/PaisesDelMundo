@@ -1,8 +1,9 @@
-# Paises del Mundo
+# Paises del Mundo (https://rawgit.com/mnibir/PaisesDelMundo/master/index.html)
 
 Países del Mundo es una web de viajes. Los alumnos de DAW1 del curso 2016-2017 nos hemos hecho viajeros y hemos decidido visitar los nueve países más visitados de cada continente. Este año hemos comenzado por Asia y en nuestra web os mostramos los lugares más emblemáticos de cada país.
 
-## __Diseño del proyecto__
+## Diseño del proyecto
+----------------------
 
 ### Diseño inicial del índice
 ![img](https://github.com/mnibir/PaisesDelMundo/blob/master/img/disseny/disseny_index.jpg)
@@ -17,7 +18,8 @@ Todas las imágenes son gratuitas y libres de derechos descargadas de Pixabay (h
 ### Texto
 El texto es parte redactado - parte tomado de diversas webs de viajes.
 
-## _Estructura del proyecto_
+## Estructura del proyecto
+--------------------------
 
 * HTML (index.html, ./html/pais.html, ./html/pais2.html). Para establecer la estructura y el contenido.
 * CSS (./css/a.css). Para definir el estilo.
