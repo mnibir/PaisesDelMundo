@@ -43,18 +43,12 @@ El texto es parte redactado - parte tomado de diversas webs de viajes.
 ## Tareas realizadas
 --------------------
 
-* Presentar el diseño o maquetación inicial del proyecto, así como documentar el mismo, mediante el presente Readme.md
-* Presentar en el índice nueve países. Los primeros tres países cargarlos directamente con html y el resto mediante Javascript y Json.
-* En particular, la carga de los últimos seis países del índice, por bloques de tres, debe estar controlada mediante JQuery y debe de poder realizarla el usuario al pulsar el botón "VER MÁS" o también mediante SCROLL.
-* Incluir un fichero para poder publicar parte del contenido de la aplicación en otras webs (./rss/rss.xml).
-* Presentar de forma completa dos países al pulsar el botón "información" correspondiente desde el índice de países. El resto de países apuntan al primero completo presentado para que la aplicación no quedara interrumpida.
-* Cada país contiene un mínimo de una imagen y un vídeo de youtube, ambos tipos responsive. El formato de cada país es uniforme.
-* 
+* Presentación del diseño o maquetación inicial del proyecto, así como documentación del mismo, mediante el presente Readme.md.
+* Presentación en el índice de nueve países en total. Los primeros tres países se cargan directamente con html y el resto con Javascript y Json.
+* En particular, la carga de los últimos seis países del índice, en bloques de tres, está controlada mediante JQuery y el usuario puede realizarla al pulsar el botón "VER MÁS" o también al hacer SCROLL.
+* Inclusión de un fichero (./rss/rss.xml) para poder publicar parte del contenido de la aplicación en otras webs.
+* Presentación de dos países de forma completa al pulsar el botón correspondiente de "información" desde el índice de países. El resto de países apuntan al primero presentado de forma completa para que la aplicación no quede interrumpida.
+* Cada país contiene un mínimo de una imagen y un vídeo de youtube, ambos tipos tratados de forma responsive. El formato de cada país es uniforme.
+* Cada  página de la aplicación contiene etiquetes meta con propiedades de open graph para poder compartir la siguiente información: el dominio, la url de la página, el título especificado en la pestaña, una imagen grande y una breve descripción.  
 
-
-6.
-Cada pàgina ha de contenir les etiquetes meta (amb open graph) per
-compartir títol, descripció, imatge (gran), nom de l'aplicació i url de la
-pàgina.
-(fins a 1 punt)
 
