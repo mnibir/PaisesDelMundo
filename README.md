@@ -7,8 +7,8 @@ Países del Mundo es una APLICACIÓN WEB DE VIAJES (https://rawgit.com/mnibir/Pa
 ## Requisitos
 -------------
 
-* Publicidad: 300px a la izquierda para PC y tablet, 90px abajo para móvil.
-* Contenido: título, imagen (dos versiones, imgbig e imgmid, si hubiere habido un cambio de tamaño entre las imágenes del índice y cada país, que no es este caso), descripción (de más de 300 carácteres), fecha y hora.
+* Publicidad: de 300px de ancho a la izquierda para PC y tablet o de 90px de alto abajo para móvil.
+* Contenido: título (de ~8 palabras), imagen (con dos versiones, imgbig e imgmid, si hubiere habido un cambio de tamaño entre las imágenes del índice y cada país, pero no es este caso), descripción (de más de 300 carácteres), fecha y hora.
 * Formato elegante y uniforme para cada país.
 
 
@@ -39,5 +39,31 @@ El texto es parte redactado - parte tomado de diversas webs de viajes.
 * JAVASCRIPT con JQUERY (./js/Asia.js). Para completar el índice y controlar elementos de la estructura.
 * JSON (./data/Asia2.json, data/Asia3.json). Para contener todo aquel contenido del índice que no se carga al comienzo.
   
-## 
+## Tareas realizadas
+--------------------
+
+* Presentar el diseño o maquetación inicial del proyecto, así como documentar el mismo, mediante el presente Readme.md
+* Presentar en el índice nueve países. Los primeros tres países cargarlos directamente con html y el resto mediante Javascript y Json.
+* En particular, la carga de los últimos seis países del índice, por bloques de tres, debe estar controlada mediante JQuery y debe de poder realizarla el usuario al pulsar el botón VER MÁS o también mediante SCROLL.
+
+
+3.
+Inclou rss.xml (especificat al tema 6)
+(fins a 1 punt)
+4.
+Codifica news1.html i news2.html, pàgines que corresponen a les dues
+primeres noticies (darreres publicades). Quan feim clic a la notícia 1 de
+news.html ens va a news1.html, quan feim clic a la notícia 2 de news.html
+ens va a news2.html (seguir no té sentit, aquesta tasca s'automatitza amb
+codi de servidor).
+(fins a 1 punt)
+5.
+La plantilla o pàgina de veure una sola notícia news1.html (news2.html és
+idèntica) ha de contenir una imatge i un vídeo de youtube responsive.
+(fins a 1 punt)
+6.
+Cada pàgina ha de contenir les etiquetes meta (amb open graph) per
+compartir títol, descripció, imatge (gran), nom de l'aplicació i url de la
+pàgina.
+(fins a 1 punt)
 
