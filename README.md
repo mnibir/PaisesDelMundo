@@ -2,7 +2,7 @@
 
 Países del Mundo es una web de viajes. Los alumnos de DAW1 del curso 2016-2017 nos hemos hecho viajeros y hemos decidido visitar los nueve países más visitados de cada continente. Este año hemos comenzado por Asia y en nuestra web os mostramos los lugares más emblemáticos de cada país.
 
-## _Diseño del proyecto_
+## __Diseño del proyecto__
 
 ### Diseño inicial del índice
 ![img](https://github.com/mnibir/PaisesDelMundo/blob/master/img/disseny/disseny_index.jpg)
