@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0"><channel><title>Países del mundo</title><description>Catálogo de los países más visitados del mundo por continentes. Asia</description><link>https://rawgit.com/mnibir/PaisesDelMundo/master/index.html</link><pubDate>2016-2017</pubDate><image><url>https://rawgit.com/mnibir/PaisesDelMundo/master/img/Asia/banner.jpg</url><title>Asia</title><link>https://rawgit.com/mnibir/PaisesDelMundo/master/index.html</link></image><item><title>Países del mundo. China</title><description>Catálogo de los países más visitados del mundo por continentes. Asia</description><link>https://rawgit.com/mnibir/PaisesDelMundo/master/html/pais.html</link><pubDate>23/04/2017-10:32</pubDate><image><url>https://rawgit.com/mnibir/PaisesDelMundo/master/img/Asia/China.jpg</url><title>Gran Muralla China</title><link>https://rawgit.com/mnibir/PaisesDelMundo/master/html/pais.html</link></image></item><item><title>Países del mundo. Malasia</title><description>Catálogo de los países más visitados del mundo por continentes. Asia</description><link>https://rawgit.com/mnibir/PaisesDelMundo/master/html/pais2.html</link><pubDate>12/04/2017-11:02</pubDate><image><url>https://rawgit.com/mnibir/PaisesDelMundo/master/img/Asia/Malasia.jpg</url><title>Torres Petronas, Kuala Lumpur</title><link>https://rawgit.com/mnibir/PaisesDelMundo/master/html/pais2.html</link></image></item></channel></rss>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0">
+	<channel>
+		<title>Países del mundo</title>
+		<description>Catálogo de los países más visitados del mundo por continentes. Asia</description>
+		<link>https://rawgit.com/mnibir/PaisesDelMundo/master/index.html</link>
+		<pubDate>2016-2017</pubDate>	
+		<image>
+			<url>https://rawgit.com/mnibir/PaisesDelMundo/master/img/Asia/banner.jpg</url>
+			<title>Asia</title>
+			<link>https://rawgit.com/mnibir/PaisesDelMundo/master/index.html</link>
+		</image>
+
+		<item>
+			<title>Países del mundo. China</title>
+			<description>Catálogo de los países más visitados del mundo por continentes. Asia</description>
+			<link>https://rawgit.com/mnibir/PaisesDelMundo/master/html/pais.html</link>
+			<pubDate>23/04/2017-10:32</pubDate>	
+			<image>
+				<url>https://rawgit.com/mnibir/PaisesDelMundo/master/img/Asia/China.jpg</url>
+				<title>Gran Muralla China</title>
+				<link>https://rawgit.com/mnibir/PaisesDelMundo/master/html/pais.html</link>
+			</image>
+		</item>
+		<item>
+			<title>Países del mundo. Malasia</title>
+			<description>Catálogo de los países más visitados del mundo por continentes. Asia</description>
+			<link>https://rawgit.com/mnibir/PaisesDelMundo/master/html/pais2.html</link>
+			<pubDate>12/04/2017-11:02</pubDate>	
+			<image>
+				<url>https://rawgit.com/mnibir/PaisesDelMundo/master/img/Asia/Malasia.jpg</url>
+				<title>Torres Petronas, Kuala Lumpur</title>
+				<link>https://rawgit.com/mnibir/PaisesDelMundo/master/html/pais2.html</link>
+			</image>
+		</item>
+	</channel>
+</rss>
+
