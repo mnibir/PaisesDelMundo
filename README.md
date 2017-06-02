@@ -50,5 +50,6 @@ El texto es parte redactado - parte tomado de diversas webs de viajes.
 * Presentación de dos países de forma completa al pulsar el botón correspondiente de "información" desde el índice de países. El resto de países apuntan al primero presentado de forma completa para que la aplicación no quede interrumpida.
 * Cada país contiene un mínimo de una imagen y un vídeo de youtube, ambos tipos tratados de forma responsive. El formato de cada país es uniforme.
 * Cada página de la aplicación contiene etiquetas meta con propiedades de OPEN GRAPH para poder compartir la siguiente información en redes sociales tipo Facebook: el dominio, la url de la página, el título especificado en la pestaña, una imagen grande y una breve descripción.  
+* Creación de una rama Minified (https://rawgit.com/mnibir/PaisesDelMundo/Minified/html/pais.html)
 
 
