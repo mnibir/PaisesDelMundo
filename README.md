@@ -1,7 +1,7 @@
 # Paises del Mundo
 ------------------
 
-Países del Mundo es una APLICACIÓN WEB DE VIAJES (https://rawgit.com/mnibir/PaisesDelMundo/master/index.html). Los alumnos de DAW1 del curso 2016-2017 nos hemos hecho viajeros y hemos decidido visitar los nueve países más visitados de cada continente. Este año hemos comenzado por Asia y en nuestra web os mostramos los lugares más emblemáticos de cada país.
+Países del Mundo es una APLICACIÓN WEB DE VIAJES (https://rawgit.com/mnibir/PaisesDelMundo/Minified/html/pais.html). Los alumnos de DAW1 del curso 2016-2017 nos hemos hecho viajeros y hemos decidido visitar los nueve países más visitados de cada continente. Este año hemos comenzado por Asia y en nuestra web os mostramos los lugares más emblemáticos de cada país.
 
 
 ## Requisitos
