@@ -22,7 +22,7 @@ Países del Mundo es una APLICACIÓN WEB DE VIAJES (https://rawgit.com/mnibir/Pa
 ![img](https://github.com/mnibir/PaisesDelMundo/blob/master/img/disseny/disseny_pais.jpg)
 
 ### Multimedia
-Todas las imágenes son gratuitas y libres de derechos descargadas de Pixabay (https://pixabay.com/es/), los vídeos son de Youtube (https://www.youtube.com/) y los mapas son enlaces a (https://www.google.es/maps).
+Todas las imágenes son gratuitas y libres de derechos descargadas de Pixabay (https://pixabay.com/es/), los vídeos son de Youtube (https://www.youtube.com/) y los mapas son enlaces a Google Maps (https://www.google.es/maps).
 
 ### Texto
 El texto es parte redactado - parte tomado de diversas webs de viajes.
@@ -49,6 +49,6 @@ El texto es parte redactado - parte tomado de diversas webs de viajes.
 * Inclusión de un fichero (./rss/rss.xml) para poder publicar parte del contenido de la aplicación en otras webs.
 * Presentación de dos países de forma completa al pulsar el botón correspondiente de "información" desde el índice de países. El resto de países apuntan al primero presentado de forma completa para que la aplicación no quede interrumpida.
 * Cada país contiene un mínimo de una imagen y un vídeo de youtube, ambos tipos tratados de forma responsive. El formato de cada país es uniforme.
-* Cada  página de la aplicación contiene etiquetes meta con propiedades de open graph para poder compartir la siguiente información: el dominio, la url de la página, el título especificado en la pestaña, una imagen grande y una breve descripción.  
+* Cada página de la aplicación contiene etiquetas meta con propiedades de OPEN GRAPH para poder compartir la siguiente información en redes sociales tipo Facebook: el dominio, la url de la página, el título especificado en la pestaña, una imagen grande y una breve descripción.  
 
 
